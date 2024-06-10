@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Exploring new AI tools to create something amazing<br>⚡ I love exploring new AI tools to create innovative solutions!<br>📫 You can reach me at : contact@bilsimaging.com
+🌱 Exploring new AI tools <br>📫 You can reach me at : contact@bilsimaging.com
 
 
 ## 🌐 Socials:
