@@ -10,13 +10,11 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@bilsimaging)
 
 
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=bilsimaging&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=bilsimaging&icon=1&color=4)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/bilsimaging) 
+## 💰 You can help me by Donating
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/bilsimaging) 
