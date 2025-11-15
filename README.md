@@ -1,6 +1,12 @@
-# 💫 About Me:
-🌱 Exploring new AI tools <br>📫 You can reach me at : contact@bilsimaging.com
+# 💫 About Me
 
+I’m **Bilel Aroua (Bilsimaging)** — a **Multimedia Imaging Producer**, **AI Creative Technologist**, and **n8n Verified Creator** from Tunisia.
+
+🎧 Spent 10+ years crafting **radio/TV imaging, sound design & promos**  
+🤖 Now building **AI-first media workflows**: short-form video, UGC studios, audio tools & automation  
+🧩 I love turning **complex AI pipelines** into **simple tools** for creators, media teams & brands   
+🌱 Always exploring new **AI tools, agents & automation ideas**  
+📫 Reach me anytime: **contact@bilsimaging.com**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bilelaroua)
