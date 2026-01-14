@@ -1,6 +1,6 @@
 # 💫 About Me
 
-I’m **Bilel Aroua (Bilsimaging)** — a **Multimedia Imaging Producer**, **AI Creative Technologist**, and **n8n Verified Creator** from Tunisia.
+I’m **Bilel Aroua (Bilsimaging)** — a **Multimedia Imaging Producer**, **AI Creative **, and **n8n Verified Creator** from Tunisia.
 
 🎧 Spent 10+ years crafting **radio/TV imaging, sound design & promos**  
 🤖 Now building **AI-first media workflows**: short-form video, UGC studios, audio tools & automation  
