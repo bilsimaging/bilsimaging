@@ -17,7 +17,7 @@ I’m **Bilel Aroua (Bilsimaging)** — a Multimedia Imaging Producer | AI Media
 
 
 ### 🔝 Top Contributed Repo
-[![Radio Imaging Audio Generator](https://github-contributor-stats.vercel.app/api?username=bilsimaging&limit=5&theme=dark&combine_all_yearly_contributions=true)](https://github.com/bilsimaging/Radio-Imaging-Audio-Generator)
+[![Radio Imaging Audio Generator](https://github-readme-stats.vercel.app/api/pin/?username=bilsimaging&repo=Radio-Imaging-Audio-Generator&theme=dark)](https://github.com/bilsimaging/Radio-Imaging-Audio-Generator)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=bilsimaging&icon=1&color=4)](https://visitcount.itsvg.in)
